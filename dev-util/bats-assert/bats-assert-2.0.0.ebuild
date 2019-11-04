@@ -9,7 +9,7 @@ SRC_URI="https://github.com/jasonkarns/${PN}-1/archive/v${PV}.tar.gz -> ${P}.tar
 
 LICENSE="CC0-1.0"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="amd64 x86"
 
 #IUSE="test"
 
