@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+
 <pkgmetadata>
-	<upstream>
+    <maintainer type="person">
+        <email>overlay-maintainer@mad-hacking.net</email>
+        <name>Overlay Maintainer</name>
+    </maintainer>
+    <upstream>
 		<remote-id type="github">bats-core/bats-core</remote-id>
-	</upstream>
+        <maintainer>
+            <email>default-package-maintainer@mad-hacking.net</email>
+            <name>Default Package Maintainer</name>
+        </maintainer>
+        <bugs-to>https://github.com/hacking-ebuilds/bats-core/issues</bugs-to>
+        <doc>https://github.com/bats-core/bats-core/wiki</doc>
+    </upstream>
 	<longdescription lang="en">
 		Bats is a TAP-compliant testing framework for Bash. It provides a simple
 		way to verify that the UNIX programs you write behave as expected.
