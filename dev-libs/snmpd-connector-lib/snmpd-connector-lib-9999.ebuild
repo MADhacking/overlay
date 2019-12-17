@@ -15,6 +15,7 @@ else
 	SRC_URI="https://github.com/MADhacking/snmpd-connector-lib/archive/${PV}.tar.gz -> ${P}.tar.gz"
 fi
 
+KEYWORDS=""
 IUSE="test"
 SLOT="0"
 
@@ -22,7 +23,7 @@ RESTRICT="!test? ( test )"
 
 RDEPEND="dev-libs/hacking-bash-lib
 	net-analyzer/net-snmp"
-DEPEND="test? (
+DEPEND="test? ( 
 	dev-libs/hacking-bash-lib
 	dev-util/bats-assert
 )"
