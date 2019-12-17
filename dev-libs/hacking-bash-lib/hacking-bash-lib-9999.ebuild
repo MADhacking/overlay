@@ -15,6 +15,7 @@ else
 	SRC_URI="https://github.com/MADhacking/hacking-bash-lib/archive/${PV}.tar.gz -> ${P}.tar.gz"
 fi
 
+KEYWORDS=""
 IUSE="test"
 SLOT="0"
 
