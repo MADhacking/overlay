@@ -13,6 +13,7 @@ if [[ ${PV} = *9999* ]]; then
 	EGIT_COMMIT="v2.0.0"
 else
 	SRC_URI="https://github.com/jasonkarns/${PN}-1/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+	S="${WORKDIR}/${PN}-1-${PV}"
 fi
 
 KEYWORDS="alpha amd64 arm arm64 hppa ia64 m68k ~mips ppc ppc64 ~riscv s390 sh sparc x86 ~amd64-linux ~x86-linux"
