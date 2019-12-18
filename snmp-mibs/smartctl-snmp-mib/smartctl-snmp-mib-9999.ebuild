@@ -15,6 +15,7 @@ else
 	SRC_URI="https://github.com/MADhacking/smartctl-snmp-mib/archive/${PV}.tar.gz -> ${P}.tar.gz"
 fi
 
+KEYWORDS=""
 IUSE="test"
 SLOT="0"
 
