@@ -11,7 +11,7 @@
 			<email>default-package-maintainer@mad-hacking.net</email>
 			<name>Default Package Maintainer</name>
 		</maintainer>
-		<bugs-to>http://bugs.mad-hacking.net/enter_bug.cgi?product=Software&amp;component=snmp-mibs/mdraid-snmp-mib</bugs-to>
-		<doc>http://www.mad-hacking.net/software/agnostic/mdraid-snmp-mib/index.xml</doc>
+		<bugs-to>https://github.com/MADhacking/mdraid-snmp-mib/issues</bugs-to>
+		<doc>https://github.com/MADhacking/mdraid-snmp-mib</doc>
 	</upstream>
 </pkgmetadata>
