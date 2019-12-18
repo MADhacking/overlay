@@ -15,7 +15,7 @@ else
 	SRC_URI="https://github.com/MADhacking/smartctl-snmp-mib/archive/${PV}.tar.gz -> ${P}.tar.gz"
 fi
 
-KEYWORDS="alpha amd64 arm hppa ia64 m68k mips ppc ppc64 s390 sh sparc x86"
+KEYWORDS="amd64 arm x86 alpha hppa ia64 ppc ppc64 s390 ~sh sparc"
 IUSE="test"
 SLOT="0"
 
