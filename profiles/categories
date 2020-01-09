@@ -1,6 +1,7 @@
 app-admin
 app-backup
 app-emulation
+app-misc
 dev-libs
 dev-util
 snmp-agents
