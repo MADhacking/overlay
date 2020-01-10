@@ -4,5 +4,6 @@ app-emulation
 app-misc
 dev-libs
 dev-util
+install-conf
 snmp-agents
 snmp-mibs
