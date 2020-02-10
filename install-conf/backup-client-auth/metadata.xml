@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+
+<pkgmetadata>
+	<maintainer type="person">
+		<email>overlay-maintainer@mad-hacking.net</email>
+		<name>Overlay Maintainer</name>
+	</maintainer>
+	<upstream>
+		<remote-id type="github">hacking-ebuilds/install-conf-backup-client-auth</remote-id>
+		<maintainer>
+			<email>default-package-maintainer@mad-hacking.net</email>
+			<name>Default Package Maintainer</name>
+		</maintainer>
+		<bugs-to>https://github.com/hacking-ebuilds/install-conf-backup-client-auth/issues</bugs-to>
+		<doc>https://www.mad-hacking.net/</doc>
+	</upstream>
+	<longdescription lang="en">
+		Hacking Networked Solutions backup-client authentication configuration package.
+	</longdescription>
+</pkgmetadata>
