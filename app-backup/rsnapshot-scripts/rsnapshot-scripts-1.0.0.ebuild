@@ -15,7 +15,7 @@ else
 	SRC_URI="https://github.com/MADhacking/rsnapshot-scripts/archive/${PV}.tar.gz -> ${P}.tar.gz"
 fi
 
-KEYWORDS="alpha amd64 ppc ppc64 sparc x86"
+KEYWORDS="~alpha amd64 ppc ppc64 sparc x86"
 IUSE="test"
 SLOT="0"
 
