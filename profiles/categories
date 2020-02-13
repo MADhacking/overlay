@@ -9,3 +9,4 @@ dev-util
 install-conf
 snmp-agents
 snmp-mibs
+sys-cluster
