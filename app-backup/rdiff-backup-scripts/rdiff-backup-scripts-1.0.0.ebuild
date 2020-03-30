@@ -15,7 +15,7 @@ else
 	SRC_URI="https://github.com/MADhacking/rdiff-backup-scripts/archive/${PV}.tar.gz -> ${P}.tar.gz"
 fi
 
-KEYWORDS="~alpha amd64 arm ~mips ppc ppc64 ~sh sparc x86 ~amd64-linux ~x86-linux ~ppc-macos ~x64-macos"
+KEYWORDS="~alpha amd64 arm ~mips ppc ppc64 sparc x86 ~amd64-linux ~x86-linux ~ppc-macos ~x64-macos"
 IUSE="test"
 SLOT="0"
 
