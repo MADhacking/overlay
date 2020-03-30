@@ -7,7 +7,7 @@ DESCRIPTION="Hacking Networked Solutions rdiff backup-client configuration packa
 HOMEPAGE="http://www.hacking.co.uk/"
 LICENSE="GPL-3"
 
-KEYWORDS="~alpha amd64 arm ~mips ppc ppc64 ~sh sparc x86"
+KEYWORDS="~alpha amd64 arm ~mips ppc ppc64 sparc x86"
 IUSE=""
 SLOT="0"
 
