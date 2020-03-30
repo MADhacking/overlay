@@ -7,7 +7,7 @@ DESCRIPTION="Hacking Networked Solutions rsync backup-client configuration packa
 HOMEPAGE="http://www.hacking.co.uk/"
 LICENSE="GPL-3"
 
-KEYWORDS="~alpha amd64 arm arm64 hppa ia64 m68k ~mips ppc ppc64 s390 sh sparc x86 ~sparc-solaris"
+KEYWORDS="~alpha amd64 arm arm64 hppa ia64 m68k ~mips ppc ppc64 s390 sparc x86 ~sparc-solaris"
 IUSE=""
 SLOT="0"
 
