@@ -15,7 +15,7 @@ else
 	SRC_URI="https://github.com/MADhacking/snmpd-connector-lib/archive/${PV}.tar.gz -> ${P}.tar.gz"
 fi
 
-KEYWORDS="~alpha amd64 arm arm64 hppa ~ia64 ~mips ppc ppc64 s390 sparc x86"
+KEYWORDS="~alpha amd64 arm arm64 hppa ~ia64 ~mips ppc ppc64 ~s390 sparc x86"
 IUSE="test"
 SLOT="0"
 
