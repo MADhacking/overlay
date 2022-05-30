@@ -7,7 +7,7 @@ DESCRIPTION="Hacking Networked Solutions tmux configuration"
 HOMEPAGE="https://www.hacking.co.uk/"
 LICENSE="MIT"
 
-KEYWORDS="amd64 x86"
+KEYWORDS="amd64 ~arm64 ~riscv x86"
 IUSE=""
 SLOT="0"
 
