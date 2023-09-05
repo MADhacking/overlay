@@ -3,7 +3,7 @@
 
 EAPI=7
 
-inherit cmake-utils
+inherit cmake
 
 DESCRIPTION="Kcov is a code coverage tester for compiled languages, Python and Bash"
 HOMEPAGE="https://github.com/SimonKagstrom/kcov"
